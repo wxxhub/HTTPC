@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/HTTPC.dir/main.cpp.o  -o HTTPC -Llib/x86_64-linux-gnu -lcurlpp -Wl,-Bsymbolic-functions -Wl,-z,relro -lcurl -ljsoncpp 

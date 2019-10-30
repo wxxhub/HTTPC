@@ -1,3 +1,0 @@
-/home/wxx/GIT/HTTPC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/wxx/GIT/HTTPC/cmake-build-debug/CMakeFiles/HTTPC.dir
-/home/wxx/GIT/HTTPC/cmake-build-debug/CMakeFiles/edit_cache.dir
